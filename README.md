@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Khuloud 👋
 
-<!--
-**khuloud0/khuloud0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Software Engineering Student 
 
-Here are some ideas to get you started:
+- 📍 Based in **Riyadh, Saudi Arabia**
+- 🛡️ Cybersecurity Enthusiast & Backend Developer (Python/Flask)
+- 🚀 Leading the **Artura** project (B2B Real Estate & Interior Design)
+- 🎨 Passionate about Minimalist Design & Apple-inspired Interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 My GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khuloud0&theme=minimal&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🛠 Tech Stack & Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
